@@ -39,10 +39,12 @@ body
 #container hl
 {
     font-size: 20px;
-    text-align: center;
 }
-#post 
+
+#footer 
 {
-    background-color: whitesmoke;
-    padding: 1em;
+    background-color: plum;
+    color: whitesmoke;
+    text-align: center;
+    font-weight: bold;
 }
